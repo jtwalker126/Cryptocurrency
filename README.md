@@ -1,1 +1,2 @@
 # Cryptocurrency
+This analysis involves using unsupervised machine learning to analyze data on cryptocurrency companies. The goal was to explore the data and help determine if there are ones that should be invested in. To do this, I processed the data in order to be amenable to machine learning, then reduced the data into three principcal components. I used these three PCs to cluster the data using the K-means approach and finally used hvplot to visualize the resulting data.
